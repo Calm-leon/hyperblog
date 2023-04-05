@@ -5,3 +5,9 @@ Camilo entro a trabajar a la empresa justo despues del cumpleaños de su madre.
 Mañana nos enfocaremos en su vida laboral.
 
 Ahora vamos a probar todo lo que aprendimos.
+pero me falto decir que vamos a hacer lo basico
+utilizar git add - para llevar los cambios al area de preparacion
+utilizar git commit - para pasar los cambios al repositorio local - no se olvida colocar un mensaje de la nueva versión
+utilizar git status - para saber como se encuentran los archivos en nuesto proyecto
+
+holi
