@@ -11,5 +11,5 @@ utilizar git commit - para pasar los cambios al repositorio local - no se olvida
 utilizar git status - para saber como se encuentran los archivos en nuesto proyecto
 
 holi je je
-
+ji ji ji
 je je je
