@@ -1,5 +1,5 @@
 body {
-    color: #333;
+    color: #a32222;
     text-align: center;
     font-family: Arial;
     margin: 0;
@@ -7,7 +7,7 @@ body {
 }
 
 #cabecera {
-    background: #33A;
+    background: rgb(170, 168, 51);
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
@@ -33,6 +33,6 @@ body {
     font-size: 20px;
 }
 
-#post {
+#post #post2 {
     padding: 1em;
 }
