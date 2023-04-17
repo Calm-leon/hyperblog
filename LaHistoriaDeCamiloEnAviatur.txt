@@ -11,6 +11,8 @@ utilizar git add - para llevar los cambios al area de preparacion
 utilizar git commit - para pasar los cambios al repositorio local - no se olvida colocar un mensaje de la nueva versión
 utilizar git status - para saber como se encuentran los archivos en nuesto proyecto
 
+Master 1
+
 holi je je
 ji ji ji
 je je je
